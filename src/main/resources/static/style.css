@@ -6,21 +6,26 @@
     font-weight:bold;
 }
 
-a{
-    color:white;
+h1 {
+    text-align : center;
+    padding : 30px;
+    background-color: #A8D1D1;
 }
 
+a {
+    color: white;
+}
 
 a> img{
     width:700px;
     height:auto;
 }
 
-/*.rankings{*/
-/*    padding: 20px;*/
-/*    margin-bottom: 16px;*/
-/*    background-color: #FD8ABA;*/
-/*}*/
+.rankings{
+    padding: 20px;
+    margin-bottom: 16px;
+    background-color: #FD8ABA;
+}
 
 .song-title{
     position: absolute;
